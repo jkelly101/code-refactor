@@ -28,9 +28,7 @@ To make the site accessible, I added alt tags to each of the images along with a
 
 #### Classes Consolidated
 
-![original css](https://github.com/jkelly101/code-refactor/blob/main/assets/screenshots/orig-css.png)
-
-![class consolidation](https://github.com/jkelly101/code-refactor/blob/main/assets/screenshots/class-consolidation.png)
+![original css](https://github.com/jkelly101/code-refactor/blob/main/assets/screenshots/orig-css.png) ![class consolidation](https://github.com/jkelly101/code-refactor/blob/main/assets/screenshots/class-consolidation.png)
 
 ## Completed Project
 [Horiseon Social Solution Services](https://jkelly101.github.io/code-refactor/)
