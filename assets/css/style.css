@@ -4,10 +4,7 @@
     margin: 0;
 }
 
-body {
-    background-color: #d9dcd6;
-}
-
+/* Header Styling */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -19,13 +16,12 @@ h1 {
     display: inline-block;
     font-size: 48px;
 }
-/* removed unnecessary element tags */
 
 #seo {
     color: #d9dcd6;
 }
-/* removed unnecessary element tags */
 
+/* Nav Bar Styling */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -33,28 +29,22 @@ nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-/* removed unnecessary element tags */
-
-ul {
-    list-style-type: none;
-}
-/* removed unnecessary element tags */
-
-li {
-    display: inline-block;
-    margin-left: 25px;
-}
-/* removed unnecessary elements */
 
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
+ul {
+    list-style-type: none;
 }
 
+li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+/* Div Styling */
 .hero {
     height: 800px;
     width: 100%;
@@ -62,6 +52,20 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+}
+
+/* Body Styling */
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;}
+body {
+    background-color: #d9dcd6;
+}
+
+/* Main Styling */
+p {
+    font-size: 16px;
 }
 
 .float-left {
@@ -74,12 +78,7 @@ p {
     margin-left: 25px;
 }
 
-main {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
+/* Sidebar Styling */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -95,20 +94,17 @@ aside {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* consolidated classes with same rules together */
 
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/* changed to h3 tag instead of multiple class tags */
 
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/* consolidated classes with same rules together */
 
 main section {
     margin-bottom: 20px;
@@ -127,8 +123,8 @@ h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* removed unnecessary tags */
 
+/* Footer Styling */
 footer {
     padding: 30px;
     clear: both;
