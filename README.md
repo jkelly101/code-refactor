@@ -20,15 +20,15 @@ To make the site accessible, I added alt tags to each of the images along with a
 
 #### Accessibility Features Added
 
-![accessibility features](https://github.com/jkelly101/code-refactor/blob/main/assets/images/accessibilty-features.png)
+![accessibility features](https://github.com/jkelly101/code-refactor/blob/main/assets/screenshots/accessibilty-features.png)
 
 #### CSS Reorganized
 
-![css reorganization](https://github.com/jkelly101/code-refactor/blob/main/assets/images/css-reorg.png)
+![css reorganization](https://github.com/jkelly101/code-refactor/blob/main/assets/screenshots/css-reorg.png)
 
 #### Classes Consolidated
 
-![class consolidation](https://github.com/jkelly101/code-refactor/blob/main/assets/images/class-consolidation.png)
+![class consolidation](https://github.com/jkelly101/code-refactor/blob/main/assets/screenshots/class-consolidation.png)
 
 
 
