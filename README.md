@@ -18,9 +18,15 @@ To make the site accessible, I added alt tags to each of the images along with a
 5. Reorganized CSS so that styles were grouped together by section.
 6. Consolidated identical styles under one class instead of multiple classes with the same style rules.
 
+#### Accessibility Features Added
+
 ![accessibility features](https://github.com/jkelly101/code-refactor/blob/main/assets/images/accessibilty-features.png)
 
+#### CSS Reorganized
+
 ![css reorganization](https://github.com/jkelly101/code-refactor/blob/main/assets/images/css-reorg.png)
+
+#### Classes Consolidated
 
 ![class consolidation](https://github.com/jkelly101/code-refactor/blob/main/assets/images/class-consolidation.png)
 
